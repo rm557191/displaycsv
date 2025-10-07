@@ -1,0 +1,11 @@
+book_id,title,isbn,author,category,publish_date,pages,borrower,loan_date,return_date,status
+1,Introdução a Dados,978-0001,José da Silva,Tecnologia,2015-05-01,320,Paulo,2025-09-01,,loaned
+2,Análise de Risco,978-0002,José da Silva,Finanças,2018-09-10,240,Marcia,2025-07-01,,overdue
+3,Aprendendo Python,978-0003,Mariana Souza,Programação,2020-01-05,400,Fernanda,2025-08-15,2025-09-05,returned
+4,Machine Learning 101,978-0004,Alice Pereira,Ciência,2019-07-11,360,Carlos,2025-09-10,,loaned
+5,Banco de Dados Avançado,978-0005,Mariana Souza,Tecnologia,2016-11-23,280,Rafael,2025-08-28,2025-09-03,returned
+6,Estatística Básica,978-0006,Alice Pereira,Matemática,2014-02-14,200,,,,
+7,UX para Apps,978-0007,Mariana Souza,Design,2021-08-08,150,,,,
+8,Arquitetura de Software,978-0008,José da Silva,TI,2017-03-30,450,,,,
+9,Introdução ao Azure,978-0009,Alice Pereira,Cloud,2022-06-12,210,,,,
+10,Governança de Dados,978-0010,José da Silva,Governança,2013-12-01,180,,,,
